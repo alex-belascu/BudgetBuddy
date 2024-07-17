@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/alex/Desktop/projects/BudgetBuddy/obj/Debug/net8.0/scopedcss/projectbundle/BudgetBuddy.bundle.scp.css",
+      "PackagePath": "staticwebassets/BudgetBuddy.bundle.scp.css"
+    },
+    {
+      "Id": "/home/alex/Desktop/projects/BudgetBuddy/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/alex/Desktop/projects/BudgetBuddy/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/alex/Desktop/projects/BudgetBuddy/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/alex/Desktop/projects/BudgetBuddy/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BudgetBuddy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BudgetBuddy.props",
+      "PackagePath": "build\\BudgetBuddy.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BudgetBuddy.props",
+      "PackagePath": "buildMultiTargeting\\BudgetBuddy.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BudgetBuddy.props",
+      "PackagePath": "buildTransitive\\BudgetBuddy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
